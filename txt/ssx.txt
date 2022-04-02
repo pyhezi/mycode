@@ -644,83 +644,83 @@ Arirang,P2p://ns2.hellotvvod.com:9906/dc09260380da4121a029ac172c3450c4.ts
 
 
 东南亚,#genre#
-🇲🇾AstroAEC(备),P2p://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
-🇲🇾AstroAEC,P2p://ns2.hellotvvod.com:9906/51b52f447fda45378b1bb0d44a2480ec.ts
-🇲🇾AstroAOD352,P2p://ns2.hellotvvod.com:9906/f15cbf3878864ced90e7ade17310ffe7.ts
-🇲🇾AstroAOD353,P2p://ns2.hellotvvod.com:9906/ed61718ce8874b36be661dfe1010dd74.ts
-🇲🇾AstroAOD354,P2p://ns2.hellotvvod.com:9906/004957812ce14373b8adc0422faa775d.ts
-🇲🇾AstroAOD355,P2p://ns2.hellotvvod.com:9906/4e6943bded5247b582b78ea32aa0d57e.ts
-🇲🇾AstroAODHD311,P2p://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts
-🇲🇾AstroArena,P2p://ns2.hellotvvod.com:9906/5c70c832d10f4b49879633dab1b43616.ts
-🇲🇾AstroArena2,P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts
-🇲🇾AstroAuraHD,P2p://ns2.hellotvvod.com:9906/d2f00109e6ca4f1c935eefaa82b30fb7.ts
-🇲🇾AstroAwani,P2p://ns2.hellotvvod.com:9906/bbe69795210a4fbe907bdfcce49793b6.ts
-🇲🇾AstroCeria,P2p://ns2.hellotvvod.com:9906/bb35635f92ca4c69a62aee7da5ffcb5b.ts
-🇲🇾AstroCitraHD,P2p://ns2.hellotvvod.com:9906/f570a042354345b6b0a71a5fffc2fac2.ts
-🇲🇾AstroCricket,P2p://ns2.hellotvvod.com:9906/373b146d21d441a683672445d194ccad.ts
-🇲🇾AstroOasisHD,P2p://ns2.hellotvvod.com:9906/053ea7df19f64c238235a93e15a5b69d.ts
-🇲🇾AstroPrimaHD,P2p://ns2.hellotvvod.com:9906/98a9a8c867ec4ee3aa18ba38e656dec8.ts
-🇲🇾AstroRaniaHD,P2p://ns2.hellotvvod.com:9906/62b41c11a9574d4a8ae72d8fe6a999a4.ts
-🇲🇾AstroRiaHD,P2p://ns2.hellotvvod.com:9906/d08c69f7374a4aff89a678f85001bc5a.ts
-🇲🇾AstroSuperSport,P2p://ns2.hellotvvod.com:9906/46c1874db98e44e2897b3b666f63e5b3.ts
-🇲🇾AstroSuperSport2,P2p://ns2.hellotvvod.com:9906/e7a877e3655648e595b28b29f1518692.ts
-🇲🇾AstroSuperSport3,P2p://ns2.hellotvvod.com:9906/556ebf04baa340a98fff40f9e7d75ea8.ts
-🇲🇾AstroSuperSport4,P2p://ns2.hellotvvod.com:9906/d34a9e12e4ce4fb2831e4e9e1ce3b465.ts
-🇲🇾AstroSuperSport5,P2p://ns2.hellotvvod.com:9906/9bd1e201633648379bb551756fbe8e1f.ts
-🇲🇾AstroTutorTVPT3,P2p://ns2.hellotvvod.com:9906/b75440c9b554429aa28045a7539325cc.ts
-🇲🇾AstroTutorTVSK,P2p://ns2.hellotvvod.com:9906/9b02988f0b0d40c4bfd6776711828407.ts
-🇲🇾AstroTutorTVSPM,P2p://ns2.hellotvvod.com:9906/a32dfb01f4b5481d89567e4ca3f16b15.ts
-🇲🇾AstroVaanavil,P2p://ns2.hellotvvod.com:9906/49fb40c331e3491298e50ec689d698d4.ts
-🇲🇾AstroVinmeen,P2p://ns2.hellotvvod.com:9906/2c794a087c324522b1c03574cd2101cd.ts
-🇲🇾AstroWarnaHD,P2p://ns2.hellotvvod.com:9906/2bcc414c10954b868c5a73221293d54a.ts
-🇲🇾Astro欢喜台(备),P2p://ns2.hellotvvod.com:9906/0b72c0256d614c948fcbe93b1f97f6d5.ts
-🇲🇾Astro欢喜台,P2p://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
-🇲🇾Astro全佳,P2p://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
-🇲🇾Astro双星,P2p://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
-🇲🇾Astro小太阳,P2p://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
-🇲🇾TV1,P2p://ns2.hellotvvod.com:9906/214c44d356874a4388949095d7461a24.ts
-🇲🇾TV2,P2p://ns2.hellotvvod.com:9906/3ee5d1232f9540c3b27245656f9d6f48.ts
-🇲🇾TV3,P2p://ns2.hellotvvod.com:9906/60792fb5c59a4c22b4d38cb6f7cf46de.ts
-🇲🇾TV5,P2p://ns2.hellotvvod.com:9906/678bdf4c01ea449790d73b13548c5d4c.ts
-🇲🇾TV5Monde,P2p://ns2.hellotvvod.com:9906/2f0199b7ade54a2e8d018ac259ac6cb5.ts
-🇲🇾TV5MONDEStyle生活时尚,P2p://ns2.hellotvvod.com:9906/031ca01822864fa1b8e4248ce35b5fe5.ts
-🇲🇾TV9,P2p://ns2.hellotvvod.com:9906/8405a9ce683248708acbac791da6c3c0.ts
-🇲🇾8TV,P2p://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
-🇲🇾Al-Hijrah,P2p://ns2.hellotvvod.com:9906/1645da922771498cb69e845778fadb33.ts
-🇲🇾AwesomeTV,P2p://ns2.hellotvvod.com:9906/e568310674414edca9a826a6349fc667.ts
-🇹🇭泰国-NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-🇹🇭泰国-NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-🇹🇭泰国-NBT Central,http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-🇹🇭泰国-News 1,http://news1.live14.com/stream/news1.m3u8
-🇹🇭泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-🇹🇭泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-🇹🇭泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-🇹🇭泰国-Thairath TV 32,https://live.thairath.co.th/trtv2/playlist.m3u8
-🇹🇭泰国-Thairath TV 32,https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-🇹🇭泰国-White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-🇮🇩印尼-Aditv,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-🇮🇩印尼-BERITASATUNEWS,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-🇮🇩印尼-BeritaSatuWorld,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-🇮🇩印尼-JAKARTAGLOBE,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-🇮🇩印尼-METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-🇮🇩印尼-TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-🇮🇩印尼-TVRISports,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-🇮🇶伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-🇦🇪阿拉伯联合酋长国-AlArabiya,http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-🇦🇪阿拉伯联合酋长国-DubaiOne,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-🇮🇷伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
-🇮🇷伊朗-RangarangTV,http://iptv.rangarang.us/live/playlist.m3u8
-🇶🇦半岛电视新闻网AlHurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-🇶🇦卡塔尔-AlKassSports3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-🇶🇦卡塔尔-AlKassSports4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-🇻🇳越南-antvliv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-🇻🇳越南-Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-🇻🇳越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
-🇻🇳越南-VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-🇮🇳印度-ABPAsmita,http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-🇮🇳印度-Short Flim,http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-🇱🇦老挝-LaoChampaTV2,https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-🇲🇳蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+AstroAEC(备),P2p://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
+AstroAEC,P2p://ns2.hellotvvod.com:9906/51b52f447fda45378b1bb0d44a2480ec.ts
+AstroAOD352,P2p://ns2.hellotvvod.com:9906/f15cbf3878864ced90e7ade17310ffe7.ts
+AstroAOD353,P2p://ns2.hellotvvod.com:9906/ed61718ce8874b36be661dfe1010dd74.ts
+AstroAOD354,P2p://ns2.hellotvvod.com:9906/004957812ce14373b8adc0422faa775d.ts
+AstroAOD355,P2p://ns2.hellotvvod.com:9906/4e6943bded5247b582b78ea32aa0d57e.ts
+AstroAODHD311,P2p://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts
+AstroArena,P2p://ns2.hellotvvod.com:9906/5c70c832d10f4b49879633dab1b43616.ts
+AstroArena2,P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts
+AstroAuraHD,P2p://ns2.hellotvvod.com:9906/d2f00109e6ca4f1c935eefaa82b30fb7.ts
+AstroAwani,P2p://ns2.hellotvvod.com:9906/bbe69795210a4fbe907bdfcce49793b6.ts
+AstroCeria,P2p://ns2.hellotvvod.com:9906/bb35635f92ca4c69a62aee7da5ffcb5b.ts
+AstroCitraHD,P2p://ns2.hellotvvod.com:9906/f570a042354345b6b0a71a5fffc2fac2.ts
+AstroCricket,P2p://ns2.hellotvvod.com:9906/373b146d21d441a683672445d194ccad.ts
+AstroOasisHD,P2p://ns2.hellotvvod.com:9906/053ea7df19f64c238235a93e15a5b69d.ts
+AstroPrimaHD,P2p://ns2.hellotvvod.com:9906/98a9a8c867ec4ee3aa18ba38e656dec8.ts
+AstroRaniaHD,P2p://ns2.hellotvvod.com:9906/62b41c11a9574d4a8ae72d8fe6a999a4.ts
+AstroRiaHD,P2p://ns2.hellotvvod.com:9906/d08c69f7374a4aff89a678f85001bc5a.ts
+AstroSuperSport,P2p://ns2.hellotvvod.com:9906/46c1874db98e44e2897b3b666f63e5b3.ts
+AstroSuperSport2,P2p://ns2.hellotvvod.com:9906/e7a877e3655648e595b28b29f1518692.ts
+AstroSuperSport3,P2p://ns2.hellotvvod.com:9906/556ebf04baa340a98fff40f9e7d75ea8.ts
+AstroSuperSport4,P2p://ns2.hellotvvod.com:9906/d34a9e12e4ce4fb2831e4e9e1ce3b465.ts
+AstroSuperSport5,P2p://ns2.hellotvvod.com:9906/9bd1e201633648379bb551756fbe8e1f.ts
+AstroTutorTVPT3,P2p://ns2.hellotvvod.com:9906/b75440c9b554429aa28045a7539325cc.ts
+AstroTutorTVSK,P2p://ns2.hellotvvod.com:9906/9b02988f0b0d40c4bfd6776711828407.ts
+AstroTutorTVSPM,P2p://ns2.hellotvvod.com:9906/a32dfb01f4b5481d89567e4ca3f16b15.ts
+AstroVaanavil,P2p://ns2.hellotvvod.com:9906/49fb40c331e3491298e50ec689d698d4.ts
+AstroVinmeen,P2p://ns2.hellotvvod.com:9906/2c794a087c324522b1c03574cd2101cd.ts
+AstroWarnaHD,P2p://ns2.hellotvvod.com:9906/2bcc414c10954b868c5a73221293d54a.ts
+Astro欢喜台(备),P2p://ns2.hellotvvod.com:9906/0b72c0256d614c948fcbe93b1f97f6d5.ts
+Astro欢喜台,P2p://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
+Astro全佳,P2p://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
+Astro双星,P2p://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
+Astro小太阳,P2p://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
+TV1,P2p://ns2.hellotvvod.com:9906/214c44d356874a4388949095d7461a24.ts
+TV2,P2p://ns2.hellotvvod.com:9906/3ee5d1232f9540c3b27245656f9d6f48.ts
+TV3,P2p://ns2.hellotvvod.com:9906/60792fb5c59a4c22b4d38cb6f7cf46de.ts
+TV5,P2p://ns2.hellotvvod.com:9906/678bdf4c01ea449790d73b13548c5d4c.ts
+TV5Monde,P2p://ns2.hellotvvod.com:9906/2f0199b7ade54a2e8d018ac259ac6cb5.ts
+TV5MONDEStyle生活时尚,P2p://ns2.hellotvvod.com:9906/031ca01822864fa1b8e4248ce35b5fe5.ts
+TV9,P2p://ns2.hellotvvod.com:9906/8405a9ce683248708acbac791da6c3c0.ts
+8TV,P2p://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
+Al-Hijrah,P2p://ns2.hellotvvod.com:9906/1645da922771498cb69e845778fadb33.ts
+AwesomeTV,P2p://ns2.hellotvvod.com:9906/e568310674414edca9a826a6349fc667.ts
+泰国-NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+泰国-NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+泰国-NBT Central,http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+泰国-News 1,http://news1.live14.com/stream/news1.m3u8
+泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰国-PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+泰国-Thairath TV 32,https://live.thairath.co.th/trtv2/playlist.m3u8
+泰国-Thairath TV 32,https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+泰国-White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+印尼-Aditv,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+印尼-BERITASATUNEWS,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+印尼-BeritaSatuWorld,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+印尼-JAKARTAGLOBE,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+印尼-METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+印尼-TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+印尼-TVRISports,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+阿拉伯联合酋长国-AlArabiya,http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+阿拉伯联合酋长国-DubaiOne,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+伊朗-RangarangTV,http://iptv.rangarang.us/live/playlist.m3u8
+半岛电视新闻网AlHurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+卡塔尔-AlKassSports3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+卡塔尔-AlKassSports4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+越南-antvliv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越南-Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南-VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+印度-ABPAsmita,http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+印度-Short Flim,http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+老挝-LaoChampaTV2,https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 
 测试1,#genre#
 凤凰香港,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
